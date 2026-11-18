@@ -23,5 +23,3 @@
 ## Технологии
 
 - Figma Make
-- GitHub
-- HTML / CSS / JavaScript — если использовались в проекте
