@@ -2,7 +2,7 @@
 
 ## Author
 
-[Ayupova Aziza]
+Ayupova Aziza - Аюпова Азиза
 
 ## Project
 
