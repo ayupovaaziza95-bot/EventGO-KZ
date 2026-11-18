@@ -21,7 +21,7 @@ Project created in Figma Make.
 
 ## Figma Make
 
-[Open Figma Make Project]((https://www.figma.com/make/u8SuBMbVbEHPCAMPY80w3Z/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A2%D0%97-%D0%B2-%D0%A4%D0%B0%D0%B9%D0%B5?t=RBUlIAR5bNTYMqM8-20&fullscreen=1&preview-route=%2Flogin))
+[Open Figma Make Project](https://www.figma.com/make/u8SuBMbVbEHPCAMPY80w3Z/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A2%D0%97-%D0%B2-%D0%A4%D0%B0%D0%B9%D0%B5?t=RBUlIAR5bNTYMqM8-20&fullscreen=1&preview-route=%2Flogin)
 
 ## Project demonstration
 
