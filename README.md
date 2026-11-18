@@ -1,25 +1,11 @@
-# EventGO-KZ
 
-## Автор
+  # Улучшение ТЗ в Файе
 
-**Аюпова Азиза Руслановна**
+  This is a code bundle for Улучшение ТЗ в Файе. The original project is available at https://www.figma.com/design/u8SuBMbVbEHPCAMPY80w3Z/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A2%D0%97-%D0%B2-%D0%A4%D0%B0%D0%B9%D0%B5.
 
-## О проекте
+  ## Running the code
 
-Тревел-агрегатор, который объединяет в себе несколько сервисов, EventGO KZ — проект платформы для поиска событий и планирования поездок по Казахстану.
+  Run `npm i` to install the dependencies.
 
-## Figma Make
-
-[Открыть проект в Figma Make](https://www.figma.com/make/u8SuBMbVbEHPCAMPY80w3Z/)
-
-## Демонстрация проекта
-
-[Посмотреть демонстрацию на Loom](https://www.loom.com/share/31c69d260afb493db5a1ed31080a71ff)
-
-## Авторство
-
-Проект разработан автором, указанным выше. Репозиторий содержит материалы проекта и историю изменений, опубликованных через GitHub.
-
-## Технологии
-
-- Figma Make
+  Run `npm run dev` to start the development server.
+  
